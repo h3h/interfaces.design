@@ -1,0 +1,13 @@
+# Site settings
+title: interfaces.design
+email: friends@interfaces.design
+description: >
+  Come explore the worlds we create in our minds when trying to write good code,
+  as part of a visual thinking tour of abstractions and interfaces.
+baseurl: ""
+url: "https://interfaces.design"
+twitter_username: h3h
+github_username:  h3h
+
+# Build settings
+markdown: kramdown
